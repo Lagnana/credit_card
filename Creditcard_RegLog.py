@@ -9,7 +9,7 @@ Created on Thu Jan 23 12:41:41 2025
 
 import pandas as pd
 
-creditcard = pd.read_excel('C:/Users/seydi/Desktop/Portfolio_Data_Science/Détection_fraude_par_carte_crédit/archive (2)/creditcard.xlsx')
+creditcard = pd.read_excel('/creditcard.xlsx')
 print(creditcard.head())
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
